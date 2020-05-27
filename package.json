@@ -9,5 +9,8 @@
     "deploy": "gh-pages -d dist"
   },
   "author": "primuslite",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }
