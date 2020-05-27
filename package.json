@@ -1,0 +1,13 @@
+{
+  "name": "primuslite",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.js",
+  "homepage": "https://demola07.github.io/primuslite",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "primuslite",
+  "license": "ISC"
+}
