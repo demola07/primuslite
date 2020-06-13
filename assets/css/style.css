@@ -1581,7 +1581,11 @@ input[type="checkbox"] {
 }
 
 .section-space--mb_20 {
-  margin-bottom: 20px;
+  margin-bottom: -150px;
+}
+
+.section-space--mb_25 {
+  margin-bottom: 50px;
 }
 
 .section-space--mb_30 {
@@ -13339,8 +13343,8 @@ blockquote {
 =      40. About Us pages Css           =
 =======================================*/
 .about-us-bg {
-  background-image: url(../images/bg/about-us.jpg);
-  background-size: cover;
+  background-image: url(../images/bg/about-us21.jpg);
+  background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
 }
